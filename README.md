@@ -29,19 +29,42 @@ My journey in computer science has led me to develop a strong passion for data a
 [<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />](#)
 [<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />](#)
 [<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />](#)
-[<img align="left" alt="MSSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mssql/mssql-original.svg" style="padding-right:10px;" />](#)
 
 <br />
 <br />
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+  <a href="https://www.sololearn.com/certificates/CC-ENWJQ5VX">
+    <img src="https://img.shields.io/badge/-PHP-HEX_COLOR_CODE?&style=for-the-badge&logo=sololearn&logoColor=white" />
+  </a>
+  <a href="https://www.sololearn.com/certificates/CC-7K0WN5RU">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=sololearn&logoColor=white" />
+  </a>
+  <a href="https://www.sololearn.com/certificates/CT-SA2MEO8R">
+    <img src="https://img.shields.io/badge/-C-3776AB?&style=for-the-badge&logo=sololearn&logoColor=white" />
+  </a>
+  <a href="https://www.sololearn.com/certificates/CT-SQNAUDZX">
+    <img src="https://img.shields.io/badge/-Ruby-CC342D?&style=for-the-badge&logo=sololearn&logoColor=white" />
+  </a>
+  <a href="https://www.sololearn.com/certificates/CT-UWPWX9RH">
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=sololearn&logoColor=white" />
+  </a>
+  <a href="https://www.sololearn.com/certificates/CC-KURDEYN4">
+    <img src="https://img.shields.io/badge/-SQL-CC2927?&style=for-the-badge&logo=sololearn&logoColor=white" />
+  </a>
+  <a href="https://www.sololearn.com/certificates/CC-LQILWL1Z">
+    <img src="https://img.shields.io/badge/-Coding For Data-0095D5?&style=for-the-badge&logo=sololearn&logoColor=white" />
+  </a>
+  <a href="https://www.sololearn.com/certificates/CC-LQILWL1Z">
+    <img src="https://img.shields.io/badge/-Kotlin-0095D5?&style=for-the-badge&logo=sololearn&logoColor=white" />
+  </a>
+  <a href="https://www.sololearn.com/certificates/CC-LQILWL1Z">
+     <img src="https://img.shields.io/badge/-Statistics Fundenmentals-1E90FF?&style=for-the-badge&logo=CFI&logoColor=white" />
+  </a>
+ <a href="https://www.sololearn.com/certificates/CC-LQILWL1Z">
+     <img src="https://img.shields.io/badge/-Excel Fundenmentals Formulas for Finance-1E90FF?&style=for-the-badge&logo=CFI&logoColor=white" />
+  </a>
 </div>
 
 ## Projects
