@@ -11,14 +11,14 @@ My journey in computer science has led me to develop a strong passion for data a
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
+| Skill                                         | Associated Project                                          |
+|-----------------------------------------------|-------------------------------------------------------------|
 | Log Parsing and Log Analysis                  | <a href="https://google.com">Web Server Acess Log Parser</a>|
 | ASP.NET CORE MVC                              | <a href="https://google.com">Products List</a>|
 | Machine Learning & Artificial Neuron Network  | <a href="https://google.com">Bayesian Model</a>|
 | Machine Learning & Artificial Neuron Network  | <a href="https://google.com">Decision Tree</a>|
 | Machine Learning & Artificial Intelligence    | <a href="https://google.com">Minimax Game</a>|
-| Machine Learning & Artificial Intelligence    | <a href="https://google.com">TicTacToe Game</a>|
+| Machine Learning & Artificial Intelligence    | <a href="https://google.com">TicTacToc Game</a>|
 
 ## Tools
 ### Languages and Tools:
@@ -45,5 +45,11 @@ My journey in computer science has led me to develop a strong passion for data a
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Web Server Access Log Parser
+- Products List
+- Bayesian Model
+- Decision Tree
+- AdaBoost
+- Minimax Game
+- TicTacToc Game
+- Makemore Bigram
