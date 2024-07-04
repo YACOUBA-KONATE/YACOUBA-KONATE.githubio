@@ -1,0 +1,35 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model ProductionMVC.Models.Category
+
+
+<h1>Edit Category</h1>
+
+@if (Model is null)
+{
+    <p>No category was found with this Id</p>
+}
+else
+{
+    <form method="post" action="Update">
+
+        <div class="mt-3">
+            <label class="form-label">Id</label>
+            <input type="text" class="form-control" asp-for="CategoryId" readonly />
+        </div>
+
+        <div class="mt-3">
+            <label class="form-label">Name</label>
+            <input type="text" class="form-control" asp-for="CategoryName" />
+        </div>
+
+        <div class="mt-3">
+            <button type="submit" class="btn btn-primary">Update and Save</button>
+            <button type="submit" class="btn btn-danger" asp-action="Delete" asp-controller="Category">Delete</button>
+        </div>
+    </form>
+}

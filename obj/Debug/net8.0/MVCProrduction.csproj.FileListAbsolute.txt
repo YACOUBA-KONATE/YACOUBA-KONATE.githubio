@@ -1,0 +1,16 @@
+C:\Users\YACOUBASASUS16X\Documents\MVC_CRUD\MVCProrduction\obj\Debug\net8.0\MVCProrduction.csproj.AssemblyReference.cache
+C:\Users\YACOUBASASUS16X\Documents\MVC_CRUD\MVCProrduction\obj\Debug\net8.0\MVCProrduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YACOUBASASUS16X\Documents\MVC_CRUD\MVCProrduction\obj\Debug\net8.0\MVCProrduction.AssemblyInfoInputs.cache
+C:\Users\YACOUBASASUS16X\Documents\MVC_CRUD\MVCProrduction\obj\Debug\net8.0\MVCProrduction.AssemblyInfo.cs
+C:\Users\YACOUBASASUS16X\Documents\MVC_CRUD\MVCProrduction\obj\Debug\net8.0\MVCProrduction.csproj.CoreCompileInputs.cache
+C:\Users\YACOUBASASUS16X\Documents\MVC_CRUD\MVCProrduction\obj\Debug\net8.0\MVCProrduction.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\YACOUBASASUS16X\Documents\MVC_CRUD\MVCProrduction\obj\Debug\net8.0\MVCProrduction.RazorAssemblyInfo.cache
+C:\Users\YACOUBASASUS16X\Documents\MVC_CRUD\MVCProrduction\obj\Debug\net8.0\MVCProrduction.RazorAssemblyInfo.cs
+C:\Users\YACOUBASASUS16X\Documents\Web_Based_Programming\ASP_Core_MVC\MVCProrduction\obj\Debug\net8.0\MVCProrduction.csproj.AssemblyReference.cache
+C:\Users\YACOUBASASUS16X\Documents\Web_Based_Programming\ASP_Core_MVC\MVCProrduction\obj\Debug\net8.0\MVCProrduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YACOUBASASUS16X\Documents\Web_Based_Programming\ASP_Core_MVC\MVCProrduction\obj\Debug\net8.0\MVCProrduction.AssemblyInfoInputs.cache
+C:\Users\YACOUBASASUS16X\Documents\Web_Based_Programming\ASP_Core_MVC\MVCProrduction\obj\Debug\net8.0\MVCProrduction.AssemblyInfo.cs
+C:\Users\YACOUBASASUS16X\Documents\Web_Based_Programming\ASP_Core_MVC\MVCProrduction\obj\Debug\net8.0\MVCProrduction.csproj.CoreCompileInputs.cache
+C:\Users\YACOUBASASUS16X\Documents\Web_Based_Programming\ASP_Core_MVC\MVCProrduction\obj\Debug\net8.0\MVCProrduction.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\YACOUBASASUS16X\Documents\Web_Based_Programming\ASP_Core_MVC\MVCProrduction\obj\Debug\net8.0\MVCProrduction.RazorAssemblyInfo.cache
+C:\Users\YACOUBASASUS16X\Documents\Web_Based_Programming\ASP_Core_MVC\MVCProrduction\obj\Debug\net8.0\MVCProrduction.RazorAssemblyInfo.cs
